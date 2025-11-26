@@ -9,7 +9,7 @@
     "stock": 94,
     "brand": "Apple",
     "category": "smartphones",
-    "thumbnail":"https://picsum.photos/id/"
+    "thumbnail":"https://www.telefonguru.hu/uimages/2020/2020_iphone_se.jpg"
     },
     {
     "id": 2,
@@ -21,7 +21,7 @@
     "stock": 34,
     "brand": "Apple",
     "category": "smartphones",
-    "thumbnail":"https://picsum.photos/id/"
+    "thumbnail":"https://www.fixshop.hu/media/carousel_images/3500000406-010.jpg.680x680_q85ss0_background-%23fff.jpg"
     },
     {
     "id": 3,
@@ -33,9 +33,10 @@
     "stock": 36,
     "brand": "Samsung",
     "category": "smartphones",
-    "thumbnail":"https://picsum.photos/id/"
+    "thumbnail":"https://www.notebookcheck-hu.com/uploads/tx_nbc2/SamsungGalaxyS9_Plus_02.JPG"
     },
     {"id":"9",
+    "title":"Samsung GX",
     "description": "OPPO F19 is officially announced on April 2021.",
     "price": 280,
     "discountPercentage": 17.91,
@@ -43,7 +44,7 @@
     "stock": 123,
     "brand": "OPPO",
     "category": "smartphones",
-    "thumbnail":"https://picsum.photos/id/"
+    "thumbnail":"https://i.pcmag.com/imagery/lineupitems/06XOoNmfVNq3SjmByeNZxnz.fit_lim.size_1050x578.v1581384840.jpg"
     },
     {
     "id": 5,
@@ -55,7 +56,7 @@
     "stock": 32,
     "brand": "Huawei",
     "category": "smartphones",
-    "thumbnail":"https://picsum.photos/id/"
+    "thumbnail":"https://www.megaram.hu/termekek/1100_3/Huawei-P30-PRO-128GB-fekete-okostelefon-56707F.jpg"
     },
     {
     "id": 6,
@@ -67,7 +68,7 @@
     "stock": 83,
     "brand": "Apple",
     "category": "laptops",
-    "thumbnail":"https://picsum.photos/id/"
+    "thumbnail":"https://m.media-amazon.com/images/I/61L5QgPvgqL._AC_SL1500_.jpg"
     },
     {
     "id": 7,
@@ -79,7 +80,7 @@
     "stock": 50,
     "brand": "Samsung",
     "category": "laptops",
-    "thumbnail":"https://picsum.photos/id/"
+    "thumbnail":"https://laptopmedia.com/wp-content/uploads/2021/04/3-45-e1619673668653.jpg"
     },
     {
     "id": 8,
@@ -91,7 +92,7 @@
     "stock": 68,
     "brand": "Microsoft Surface",
     "category": "laptops",
-    "thumbnail":"https://picsum.photos/id/"
+    "thumbnail":"https://p1.akcdn.net/full/808702011.microsoft-surface-laptop-4-5eb-00069.jpg"
     },
     {
     "id": 9,
@@ -103,7 +104,7 @@
     "stock": 96,
     "brand": "Infinix",
     "category": "laptops",
-    "thumbnail":"https://picsum.photos/id/"
+    "thumbnail":"https://st.gsmarena.com/imgroot/news/22/01/infinix-inbook-x2-ofic/inline/-1200/gsmarena_003.jpg"
     },
     {
     "id": 10,
@@ -115,7 +116,7 @@
     "stock": 89,
     "brand": "HP Pavilion",
     "category": "laptops",
-    "thumbnail":"https://picsum.photos/id/"
+    "thumbnail":"https://m.media-amazon.com/images/I/611Fwb1gggS.jpg"
     },
     {
     "id": 11,
@@ -127,7 +128,7 @@
     "stock": 65,
     "brand": "Impression of Acqua Di Gio",
     "category": "fragrances",
-    "thumbnail":"https://picsum.photos/id/"
+    "thumbnail":"https://files.ekmcdn.com/e78d40/images/88-apobottegaoil-concentrated-perfume-oil-13402-p.jpg"
     },
     {
     "id": 12,
@@ -139,7 +140,7 @@
     "stock": 52,
     "brand": "Royal_Mirage",
     "category": "fragrances",
-    "thumbnail":"https://picsum.photos/id/"
+    "thumbnail":"https://i.ebayimg.com/images/g/ZPcAAOSwSfZlx0JU/s-l1200.jpg"
     },
     {
     "id": 13,
@@ -151,7 +152,7 @@
     "stock": 61,
     "brand": "Fog Scent Xpressio",
     "category": "fragrances",
-    "thumbnail":"https://picsum.photos/id/"
+    "thumbnail":"https://i.ebayimg.com/images/g/MKYAAOSwkyhoKEXG/s-l1200.jpg"
     },
     {
     "id": 14,
@@ -163,7 +164,7 @@
     "stock": 114,
     "brand": "Al Munakh",
     "category": "fragrances",
-    "thumbnail":"https://picsum.photos/id/"
+    "thumbnail":"https://img.drz.lazcdn.com/static/bd/p/51c0f3ca552a1a506f02239dc5175ac1.jpg_720x720q80.jpg"
     },
     {
     "id": 15,
@@ -187,7 +188,7 @@
     "stock": 110,
     "brand": "L'Oreal Paris",
     "category": "skincare",
-    "thumbnail":"https://picsum.photos/id/"
+    "thumbnail":"https://nematperfumes.com/cdn/shop/products/2_37644bee-3dd7-4461-8a75-721e5df3b8a9_2048x@2x.jpg?v=1582057665"
     },
     {
     "id": 17,
@@ -211,7 +212,7 @@
     "stock": 88,
     "brand": "Dermive",
     "category": "skincare",
-    "thumbnail":"https://picsum.photos/id/"
+    "thumbnail":"https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ers/ers00037/v/37.jpg"
     },
     {
     "id": 19,
